@@ -1,0 +1,17 @@
+{
+  "name": "graph-seq",
+  "version": "1.0.0",
+  "description": "Generate ASCII sequence diagram",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bear Su",
+  "license": "MIT",
+  "bin": {
+    "graph-seq": "./index.js"
+  },
+  "dependencies": {
+    "commander": "^2.9.0"
+  }
+}
